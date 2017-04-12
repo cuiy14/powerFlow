@@ -1,0 +1,6 @@
+this file is to do the project of power flow.
+- time: from =  2017-04-12; to = 
+- aim
+    - do the trival main function of the power flow code
+    - finish the parse matrix class, including the storage and calculation
+    - using the matrix class to re write the power flow code
