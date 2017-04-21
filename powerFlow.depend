@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492781959 source:/home/drift/Documents/codeBlock/powerFlow/main.cpp
+	<iostream>
+	<flow.h>
+
+1492782033 /home/drift/Documents/codeBlock/powerFlow//flow.h
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
